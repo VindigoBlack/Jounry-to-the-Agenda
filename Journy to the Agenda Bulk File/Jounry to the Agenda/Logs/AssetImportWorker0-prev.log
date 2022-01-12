@@ -1,0 +1,399 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.5f1 (8095aa901b9b) revision 8426922'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1415; Version 2009; 64bit' Language: 'en' Physical Memory: 16334 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+I:\Unity\2020.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+G:/zRepos/Jounry-to-the-Agenda/Journy to the Agenda Bulk File/Jounry to the Agenda
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56363
+Successfully changed project path to: G:/zRepos/Jounry-to-the-Agenda/Journy to the Agenda Bulk File/Jounry to the Agenda
+G:/zRepos/Jounry-to-the-Agenda/Journy to the Agenda Bulk File/Jounry to the Agenda
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 34.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.5f1 (8095aa901b9b)
+[Subsystems] Discovering subsystems at path I:/Unity/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/zRepos/Jounry-to-the-Agenda/Journy to the Agenda Bulk File/Jounry to the Agenda/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   
+    VRAM:     2988 MB
+    Driver:   27.21.14.5751
+Initialize mono
+Mono path[0] = 'I:/Unity/2020.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'I:/Unity/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'I:/Unity/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56800
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: I:/Unity/2020.3.5f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: I:/Unity/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001000 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 35.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.064 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000490 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 37.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.771 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.3 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2554.
+Total: 2.011900 ms (FindLiveObjects: 0.258800 ms CreateObjectMapping: 0.049600 ms MarkObjects: 1.652800 ms  DeleteObjects: 0.049700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Dungeon
+  artifactKey: Guid(e7e33b289c69aa64db349ef5500532be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon using Guid(e7e33b289c69aa64db349ef5500532be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acde93179572c5a31f4639ec00882008') in 0.009470 seconds
+  Import took 0.012546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.090776 seconds.
+  path: Assets/Dungeon/Scripts
+  artifactKey: Guid(39c228f36fb001d40a2c1f5c4b2c4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/Scripts using Guid(39c228f36fb001d40a2c1f5c4b2c4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56a32092295c4d334df86a35d6f159fd') in 0.007864 seconds
+  Import took 0.010936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002065 seconds.
+  path: Assets/Dungeon/Scripts
+  artifactKey: Guid(39c228f36fb001d40a2c1f5c4b2c4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/Scripts using Guid(39c228f36fb001d40a2c1f5c4b2c4307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56a32092295c4d334df86a35d6f159fd') in 0.003782 seconds
+  Import took 0.006586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.996678 seconds.
+  path: Assets/Dungeon/Scripts/ProceduralGenerationAlgorithems.cs
+  artifactKey: Guid(ed4f5452c42babe4daba95256c66d588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/Scripts/ProceduralGenerationAlgorithems.cs using Guid(ed4f5452c42babe4daba95256c66d588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a57b58b2646c856a25cdf33e638f3fbb') in 0.021813 seconds
+  Import took 0.024756 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000652 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.728 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2097 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2558.
+Total: 2.108300 ms (FindLiveObjects: 0.213000 ms CreateObjectMapping: 0.047100 ms MarkObjects: 1.827900 ms  DeleteObjects: 0.019100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 414.354273 seconds.
+  path: Assets/Dungeon/Scripts/ProceduralGenerationAlgorithems.cs
+  artifactKey: Guid(ed4f5452c42babe4daba95256c66d588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/Scripts/ProceduralGenerationAlgorithems.cs using Guid(ed4f5452c42babe4daba95256c66d588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b825ed64121d9cab268454a966b857a') in 0.005392 seconds
+  Import took 0.009092 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000630 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.683 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2097 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2561.
+Total: 1.745400 ms (FindLiveObjects: 0.212000 ms CreateObjectMapping: 0.048000 ms MarkObjects: 1.473300 ms  DeleteObjects: 0.011300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 807.449507 seconds.
+  path: Assets/Dungeon/Scripts/ProceduralGenerationAlgorithems.cs
+  artifactKey: Guid(ed4f5452c42babe4daba95256c66d588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/Scripts/ProceduralGenerationAlgorithems.cs using Guid(ed4f5452c42babe4daba95256c66d588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f54042a2c727e80923bc74cd0371db90') in 0.004275 seconds
+  Import took 0.007052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 182.970621 seconds.
+  path: Assets/Dungeon/Scripts/SimpleRandomWalkMapGenerator.cs
+  artifactKey: Guid(75aafa099dcf851439566e01055a6b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/Scripts/SimpleRandomWalkMapGenerator.cs using Guid(75aafa099dcf851439566e01055a6b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bf33d3df593d157b753b829bead1199') in 0.009570 seconds
+  Import took 0.013004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008298 seconds.
+  path: Assets/Dungeon/Scripts/SimpleRandomWalkMapGenerator.cs
+  artifactKey: Guid(75aafa099dcf851439566e01055a6b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/Scripts/SimpleRandomWalkMapGenerator.cs using Guid(75aafa099dcf851439566e01055a6b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bf33d3df593d157b753b829bead1199') in 0.003937 seconds
+  Import took 0.007580 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000672 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.725 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2565.
+Total: 2.215000 ms (FindLiveObjects: 0.366800 ms CreateObjectMapping: 0.070600 ms MarkObjects: 1.762800 ms  DeleteObjects: 0.013200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000921 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.694 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2568.
+Total: 1.844200 ms (FindLiveObjects: 0.244500 ms CreateObjectMapping: 0.051700 ms MarkObjects: 1.532800 ms  DeleteObjects: 0.013300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1136.149835 seconds.
+  path: Assets/Dungeon/Scripts/SimpleRandomWalkMapGenerator.cs
+  artifactKey: Guid(75aafa099dcf851439566e01055a6b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/Scripts/SimpleRandomWalkMapGenerator.cs using Guid(75aafa099dcf851439566e01055a6b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2a9f79604f4d228380093d501006389') in 0.004414 seconds
+  Import took 0.007676 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000940 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.681 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2571.
+Total: 1.948400 ms (FindLiveObjects: 0.200800 ms CreateObjectMapping: 0.043900 ms MarkObjects: 1.689400 ms  DeleteObjects: 0.013400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000683 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.689 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2574.
+Total: 1.816000 ms (FindLiveObjects: 0.215500 ms CreateObjectMapping: 0.048000 ms MarkObjects: 1.539300 ms  DeleteObjects: 0.012200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1368.177917 seconds.
+  path: Assets/Dungeon/Scripts/TileMapVisualizer.cs
+  artifactKey: Guid(ca8ed4dacd7aabe41891ca44b8612888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/Scripts/TileMapVisualizer.cs using Guid(ca8ed4dacd7aabe41891ca44b8612888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3353825fdc9df5469b5117cc8f318541') in 0.010620 seconds
+  Import took 0.014084 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000652 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.723 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2578.
+Total: 1.858300 ms (FindLiveObjects: 0.237900 ms CreateObjectMapping: 0.046600 ms MarkObjects: 1.560900 ms  DeleteObjects: 0.011800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 5602.462178 seconds.
+  path: Assets/Dungeon/Scripts/TileMapVisualizer.cs
+  artifactKey: Guid(ca8ed4dacd7aabe41891ca44b8612888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/Scripts/TileMapVisualizer.cs using Guid(ca8ed4dacd7aabe41891ca44b8612888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7007709c7597617118a4cf3d0fe5af35') in 0.020404 seconds
+  Import took 0.026701 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000774 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.731 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2100 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2582.
+Total: 2.016000 ms (FindLiveObjects: 0.258400 ms CreateObjectMapping: 0.048600 ms MarkObjects: 1.687200 ms  DeleteObjects: 0.020900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.138902 seconds.
+  path: Assets/Dungeon/Scripts/TileMapVisualizer.cs
+  artifactKey: Guid(ca8ed4dacd7aabe41891ca44b8612888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/Scripts/TileMapVisualizer.cs using Guid(ca8ed4dacd7aabe41891ca44b8612888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e43e31b33d3f6c5a9b002049a0ff6136') in 0.009183 seconds
+  Import took 0.012201 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000712 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.712 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2100 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2585.
+Total: 2.448000 ms (FindLiveObjects: 0.229900 ms CreateObjectMapping: 0.047500 ms MarkObjects: 2.150200 ms  DeleteObjects: 0.019000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000891 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.690 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2100 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2588.
+Total: 2.416100 ms (FindLiveObjects: 0.232000 ms CreateObjectMapping: 0.054700 ms MarkObjects: 2.110400 ms  DeleteObjects: 0.018100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000658 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.680 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2100 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2591.
+Total: 1.779200 ms (FindLiveObjects: 0.222800 ms CreateObjectMapping: 0.046000 ms MarkObjects: 1.498700 ms  DeleteObjects: 0.010800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
